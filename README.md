@@ -1,26 +1,9 @@
-# Feather
+# UIcons
 
-[![Travis branch](https://img.shields.io/travis/feathericons/feather/master.svg?style=flat-square)](https://travis-ci.org/feathericons/feather)
-[![npm downloads](https://img.shields.io/npm/dm/feather-icons.svg?style=flat-square)](https://npm-stat.com/charts.html?package=feather-icons&from=2017-06-01)
-[![npm version](https://img.shields.io/npm/v/feather-icons.svg?style=flat-square)](https://www.npmjs.com/package/feather-icons)
-[![CDNJS version](https://img.shields.io/cdnjs/v/feather-icons.svg?style=flat-square)](https://cdnjs.com/libraries/feather-icons)
 
-## What is Feather?
+## What is UIcons?
 
-Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
-
-https://feathericons.com
-
-```sh
-npm install feather-icons
-```
-
-**Sponsored by**
-
-<a href="https://stdlib.com">
-  <img src="https://stdlib.com/static/images/stdlib-logo-wordmark-128.png" width="128" />
-</a>
-
+UIcons is a collection ofopen source icons based on Fathericons (https://feathericons.com) set and extended for UNA CMS. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
 ## Table of Contents
 
 * [Quick Start](#quick-start)
